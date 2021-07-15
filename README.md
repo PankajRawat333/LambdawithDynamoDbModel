@@ -1,2 +1,2 @@
 # LambdawithDynamoDbModel
-Asp.net Core with lambda function and Dynamodb Document model
+AWS Lambda function in .net core and dynamodb 
